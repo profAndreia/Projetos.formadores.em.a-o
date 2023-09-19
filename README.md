@@ -3,4 +3,4 @@ Atuo como professora na Rede Estadual de Ensino do Paraná, lecionando as discip
 
 Iniciei com os trabalhos de Pensamento Computacional no inicio do ano letivo de 2022. Minha experiência vem desta prática com os estudantes e dos cursos oferecidos pelo Alura para aperfeiçoamento. 
 
-Criação de uma Página na Web sobre divulgação produtos estudantis.  
+Minha proposta inicial de projeto seria a Criação de uma Página na Web sobre divulgação de produtos estudantis.  
